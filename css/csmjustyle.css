@@ -1,0 +1,51 @@
+  
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #b9c7ed;  /* ใช้สีฟ้าอ่อน */
+    margin: 0;
+    padding: 0;
+    color: #1400ae;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+header, nav, main, footer {
+    background-color: #fbffcd;
+    padding: 20px;
+    margin: 10px;
+}
+
+header {
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: rgb(255, 117, 117);
+    text-decoration: none;
+}
+
+main {
+    background-color: #f9f9f9;
+}
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+}
